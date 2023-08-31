@@ -25,7 +25,7 @@
     <listitem>
      <simpara>
       One of the <link linkend="gmagick.constants.resolution">Resolution</link> constant
-      (<literal>Gmagick::RESOLUTION_*</literal>).
+      (<constant>Gmagick::RESOLUTION_<replaceable>*</replaceable></constant>).
      </simpara>
     </listitem>
    </varlistentry>

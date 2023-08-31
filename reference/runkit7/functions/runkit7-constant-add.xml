@@ -26,7 +26,7 @@
     <listitem>
      <simpara>
        Name of constant to declare.  Either a string to indicate a global constant,
-       or <literal>classname::constname</literal> to indicate a class constant.
+       or <constant>classname::constname</constant> to indicate a class constant.
      </simpara>
     </listitem>
    </varlistentry>

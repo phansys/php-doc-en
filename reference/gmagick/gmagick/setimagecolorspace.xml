@@ -26,7 +26,7 @@
     <listitem>
      <simpara>
       One of the <link linkend="gmagick.constants.colorspace">Colorspace</link> constant
-      (<literal>Gmagick::COLORSPACE_*</literal>).
+      (<constant>Gmagick::COLORSPACE_<replaceable>*</replaceable></constant>).
      </simpara>
     </listitem>
    </varlistentry>

@@ -25,7 +25,7 @@
     <listitem>
      <simpara>
       One of the <link linkend="gmagick.constants.imagetype">Image type</link> constant
-      (<literal>Gmagick::IMGTYPE_*</literal>).
+      (<constant>Gmagick::IMGTYPE_<replaceable>*</replaceable></constant>).
      </simpara>
     </listitem>
    </varlistentry>

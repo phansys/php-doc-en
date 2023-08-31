@@ -27,7 +27,7 @@
     <listitem>
      <simpara>
        Constant to redefine.  Either the name of a global constant,
-       or <literal>classname::constname</literal> indicating class constant.
+       or <constant>classname::constname</constant> indicating class constant.
      </simpara>
     </listitem>
    </varlistentry>
